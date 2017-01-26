@@ -10,7 +10,6 @@ body {
     height: 40px;
     background-color: #e0e0e0;
     border-bottom: 1px solid grey;
-
 }
 
 #logo {
@@ -94,6 +93,7 @@ iframe {
 .selected {
     background-color: grey;
 }
+
 img {
     height: 30px;
     width: 30px;
