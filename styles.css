@@ -94,3 +94,9 @@ iframe {
 .selected {
     background-color: grey;
 }
+img {
+    height: 30px;
+    width: 30px;
+    float: left;
+    padding-right: 5px;
+}
