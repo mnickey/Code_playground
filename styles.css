@@ -12,6 +12,11 @@ body {
     /*border-bottom: 1px solid grey;*/
 }
 
+#buttons {
+    width: auto;
+    background-color: #e0e0e0;
+}
+
 #logo {
     padding: 5px;
     padding-left: 20px;
@@ -37,7 +42,7 @@ body {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    height: 27px;
+    height: 37px;
     position: relative;
     top: 5px;
 }
@@ -76,7 +81,7 @@ body {
 .codeLabel {
     position: absolute;
     right: 10px;
-    bottom: 35px;
+    bottom: 55px;
 }
 
 #CSSContainer, #JSContainer {
@@ -91,7 +96,7 @@ iframe {
 }
 
 .selected {
-    background-color: grey;
+    background-color: springgreen;
 }
 
 img {
