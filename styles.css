@@ -21,7 +21,8 @@ body {
     padding: 5px;
     padding-left: 20px;
     font-size: 120%;
-    float: left;
+    text-align: center;
+    /*float: left;*/
 }
 
 #buttonDiv {
