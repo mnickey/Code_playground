@@ -76,7 +76,7 @@ body {
 .codeLabel {
     position: absolute;
     right: 10px;
-    top: -20px;
+    bottom: 35px;
 }
 
 #CSSContainer, #JSContainer {
